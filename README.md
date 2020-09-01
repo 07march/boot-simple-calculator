@@ -2,4 +2,4 @@
 
 Run: clone this repository --> open project in IDEA IDE.
 
-Description: simple calculator.
+Description: the most simple mathematical operations: addition, subtraction, multiplication, division..
